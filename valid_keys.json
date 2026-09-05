@@ -1,15 +1,88 @@
 {
   "licenses": {
-    "4829": "ANY",
-    "9315": "ANY",
-    "5072": "ANY",
-    "1648": "ANY",
-    "7290": "ANY",
-    "3184": "ANY",
-    "8561": "ANY",
-    "2047": "ANY",
-    "6935": "ANY",
-    "1496": "ANY",
-    "7SN": "ANY"
+    "7SN": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1842": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1395": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1523": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1784": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1210": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1963": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1417": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1689": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1352": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "1146": {
+      "hwid": "ANY",
+      "expires": "lifetime"
+    },
+    "2491": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    },
+    "2835": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    },
+    "2174": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    },
+    "2608": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    },
+    "2923": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    },
+    "2316": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    },
+    "2749": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    },
+    "2052": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    },
+    "2581": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    },
+    "2267": {
+      "hwid": "ANY",
+      "expires": "2026-10-05"
+    }
   }
 }
